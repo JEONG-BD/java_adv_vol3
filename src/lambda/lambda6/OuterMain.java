@@ -28,7 +28,6 @@ public class OuterMain {
 
 
 
-
     public static void main(String[] args) {
         OuterMain outer= new OuterMain();
         System.out.println("[외부 클래스] : " + outer);
